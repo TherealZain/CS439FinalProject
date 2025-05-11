@@ -1,0 +1,688 @@
+BRIEF REPORT Open Access© The Author(s) 2024. Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, 
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:   //creativecommo ns.  org/lice ns e s/by/4.0/ .Lawrence Nutrition Journal           (2024) 23:150 
+https://doi.org/10.1186/s12937-024-01049-6Nutrition Journal
+*Correspondence:
+Mark Lawrence
+mark.lawrence@deakin.edu.au
+1Institute for Physical Activity and Nutrition, School of Exercise and 
+Nutrition Sciences, Deakin University, Geelong, VIC, AustraliaAbstract
+Background  A healthy and sustainable diet is a prerequisite for population and planetary health. The evidence 
+of associations between dietary patterns and health outcomes has now been synthesised to inform more than 
+100 national dietary guidelines. Yet, people select foods, not whole dietary patterns, even in the context of 
+following specific diets such as a Mediterranean diet, presenting challenges to researchers, policymakers and 
+practitioners wanting to translate dietary guideline recommendations into food-level selection guidance for citizens. 
+Understanding the fundamentals that underpin healthy and sustainable diets provides a scientific basis for helping 
+navigate these challenges. This paper’s aim is to describe the fundamentals of a healthy and sustainable diet.
+Results  The scientific rationale underpinning what is a healthy and sustainable diet is universal. Everyone shares 
+a physiological need for energy and adequate amounts, types and combinations of nutrients. People source their 
+energy and nutrient needs from foods that are themselves sourced from food systems. The physiological need and 
+food systems’ sustainability have been shaped through evolutionary and ecological processes, respectively. This 
+physiological need can be met, and food systems’ sustainability protected, by following three interlinked dietary 
+principles: (i) Variety – to help achieve a nutritionally adequate diet and help protect the biodiversity of food systems. 
+(ii) Balance – to help reduce risk of diet-related non-communicable diseases and excessive use of finite environmental 
+resources and production of greenhouse gas emissions. (iii) Moderation – to help achieve a healthy body weight and 
+avoid wasting finite environmental resources used in providing food surplus to nutritional requirements.
+Conclusion  The fundamentals of a healthy and sustainable diet are grounded in evolutionary and ecological 
+processes. They are represented by the dietary principles of variety, balance and moderation and can be applied to 
+inform food-level selection guidance for citizens.
+Keywords  Healthy and sustainable diet, Dietary guidelines, Dietary variety, Dietary balance, Dietary moderation, 
+Ultra-processed foods, Food selection guideFundamentals of a healthy and sustainable 
+diet
+Mark Lawrence1*
+Page 2 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+Background
+A healthy diet is a prerequisite for a healthy life. Every -
+one shares a physiological need for energy and adequate 
+amounts, types and combinations of nutrients. These 
+are needed for optimal growth, development, mainte -
+nance, and repair of the body and as fuel for an active and 
+healthy life [ 1]. Conversely, when we are unable to con -
+sume a healthy diet, we may be at risk of malnutrition in 
+all its forms which include undernutrition; micronutrient 
+deficiencies; and overweight and obesity and resulting 
+in diet-related noncommunicable diseases (NCDs), such 
+as cardiovascular disease and diabetes [ 2]. From these 
+human health and well-being perspectives, a healthy diet 
+has been defined as one that “promotes optimal human 
+growth and development and prevents malnutrition in all 
+its forms” [ 1].
+Historically, understandings of what constitutes a 
+healthy diet were framed in terms of the consumption of 
+adequate amounts of nutrients to prevent nutrient defi -
+ciency diseases [ 3]. As nutrition science has evolved we 
+have learned more about associations between dietary 
+patterns, i.e. “the quantities, proportions, variety, or 
+combination of different foods, drinks, and nutrients in 
+diets, and the frequency with which they are habitually 
+consumed” [ 4], and health outcomes. The evidence for 
+these associations has now been synthesised to inform 
+more than 100 national dietary guidelines [ 5]. Also, there 
+has emerged an increasing amount of evidence showing 
+that what we eat can impact environmental sustainabil -
+ity [ 6] and in turn, how environmental disruptions can 
+impact food production systems [ 7]. Recognition that 
+there are co-benefits for population and planetary health 
+from adopting diets that are both healthy and sustain -
+able has led to an environmental sustainability dimension 
+being incorporated into many national dietary guidelines 
+[8–10].
+Because people usually select foods, rather than whole 
+dietary patterns, even in the context of following specific 
+diets such as a Mediterranean diet, food policymakers 
+and practitioners seeking to promote healthy and sus -
+tainable diets face an intractable challenge of needing to 
+translate dietary guideline recommendations into more 
+accessible food-level advice for citizens. This challenge 
+leads to practical scientific uncertainties with assess -
+ing a food’s ‘healthiness’ [ 11, 12] and sustainability [ 13]. 
+This paper’s premise is that an understanding of the fun -
+damentals that underpin healthy and sustainable diets 
+provides a scientific basis for helping navigate these 
+uncertainties and informing food selection guidance.
+The aim of this paper is to describe the fundamentals 
+of a healthy and sustainable diet. Here, a healthy and 
+sustainable diet is defined as one that promotes optimal 
+human growth and development and prevents malnutri -
+tion in all its forms, as well as having low environmental impact to protect food and nutrition security for pres -
+ent and future generations. The paper addresses the aim 
+in three stages. First, it describes the scientific rationale 
+underpinning the links between dietary patterns and 
+health and environmental sustainability outcomes. Sec -
+ond, it synthesises this science into principles for select -
+ing a healthy and sustainable diet. Third, it translates 
+those principles to food selection practice to achieve 
+healthy and sustainable diets. The information presented 
+in this paper relates to the fundamentals of a healthy 
+and sustainable diet for healthy free-living children and 
+adults, not for treating specific health conditions or food 
+safety issues. The ability to select a healthy and sustain -
+able diet based on these fundamentals is dependent on 
+the social, political, environmental and economic deter -
+minants of a food system’s structure and operation which 
+influence how and why food is supplied and dietary 
+choices are made [ 14].
+Scientific rationale underpinning the links between 
+dietary patterns and health and environmental 
+sustainability outcomes
+For millions of years, dietary patterns were determined 
+by the availability of a wide range of minimally processed, 
+‘nutritious’ foods, i.e., foods which are sources of energy 
+and nutrients. Requirements for energy and nutrients 
+were shaped by evolutionary processes as human physiol -
+ogy continually adapted to shifts in dietary patterns [ 15]. 
+The food systems from which foods were sourced existed 
+in harmony with ecosystems operating within ‘planetary 
+boundaries’ [ 16]. Progressively, food processing innova -
+tions were introduced to help protect food safety, reduce 
+spoilage of highly perishable foods, make food more 
+edible at the household level and increase food appeal 
+among citizens.
+Modern dietary patterns have transitioned signifi -
+cantly from those present during most of human history 
+[17]. This transition is a consequence of rapid urbaniza -
+tion and changing lifestyles intertwined with food sup -
+ply changes characterised particularly by the widespread 
+displacement of minimally processed nutritious foods for 
+‘ultra-processed foods’ (UPFs). Ultra-processed foods are 
+formulations of ingredients, mostly of exclusive industrial 
+use, typically created by a series of industrial techniques 
+and processes [ 18]. Human physiology has not been able 
+to adapt sufficiently to modern dietary pattern exposures, 
+contributing to diet being a leading risk factor for the 
+global burden of disease [ 19]. Concurrently, ecosystems 
+have not been able to adapt sufficiently to the operations 
+of modern food systems that are fostering these modern 
+dietary patterns, resulting in food systems being a leading 
+contributor to multiple planetary boundary transgres -
+sions [ 6].
+Page 3 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+Synthesising the science into principles for 
+selecting a healthy and sustainable diet
+There are three principles that capture the scientific 
+rationale when determining healthy and sustainable diet 
+recommendations, they are dietary: variety; balance; and 
+moderation. The principles need to be considered as a 
+coherent whole with all three being equally important 
+and interlinked. A description of each principle and how 
+they relate to a healthy and sustainable diet follows.
+Principle 1: Dietary variety – to help achieve a nutritionally 
+adequate diet and help protect the biodiversity of the food 
+supply
+Dietary variety refers to eating a variety of nutritious 
+foods every day. Apart from breast milk in the first six 
+months of life, no single food can supply an appropriate 
+balance of all the nutrients necessary for health. Foods 
+with similar characteristic nutrients and nutrient pro -
+files can be grouped into distinct food groups based on 
+their type and nutrient composition [ 5]. Many countries 
+with food-based dietary guidelines identify 4–6 ‘core’ 
+food groups: starchy staples, vegetables, fruits, dairy 
+foods, other ‘protein foods’ and fats and oils [ 5]. A nutri -
+tionally adequate diet can best be achieved by selecting 
+foods from both across and within the core food groups 
+while prioritising minimally processed foods. These 
+foods should be consumed in amounts recommended in 
+dietary guidelines. A number of countries have under -
+taken dietary modelling activities to estimate a minimum 
+number and reference size of food serves to be eaten 
+daily from each food group to enable nutrient intake rec -
+ommendations to be met [ 20–22].
+From a health perspective, foods can differ substan -
+tially in their composition of nutrients and more than 
+an estimated 26,000 other bioactive compounds [ 23]. 
+Dietary variety increases the likelihood of consuming an 
+adequate amount, type and combination of nutrients and 
+other bioactive compounds for promoting nutritional 
+health and preventing nutritional deficiency diseases. 
+Synergistic effects among nutrients within and between 
+foods are also instrumental in varied diets positively 
+impacting on health [ 24]. Conversely, risk of consuming 
+excessive amounts of certain nutrients and other bioac -
+tive compounds that may be present in high concentra -
+tions in some foods may be reduced through dietary 
+variety.
+From a sustainability perspective, consuming a variety 
+of foods helps to protect the biodiversity of food systems 
+by promoting the production of a wide range of geneti -
+cally diverse food crops and species. Food crop and spe -
+cies biodiversity helps increase the resilience of food 
+production to threats from pests and diseases in agroeco -
+systems [ 25]. This biodiversity may also help contribute to higher and more stable yields as well as lower land 
+clearing and use of harmful agrochemicals [ 26].
+Principle 2: Dietary balance – to help reduce risk of 
+diet-related non-communicable diseases and excessive 
+use of finite environmental resources and production of 
+greenhouse gas emissions
+Dietary balance refers to the relative dietary propor -
+tions of the different food groups from which foods are 
+selected. Dietary imbalances arise when the total amount 
+of foods from one or more food groups is consumed in 
+excessive or inadequate amounts relative to the total 
+amount of foods consumed from other food groups. 
+Two dietary imbalances are receiving particular atten -
+tion. First, in many high-income countries, it is reported 
+there is too low an intake of nutritious plant-source 
+foods relative to animal-source foods [ 27, 28]. Second, in 
+an increasing number of countries around the world, it 
+is reported there is too low an intake of minimally pro -
+cessed nutritious foods relative to UPFs [ 10, 27, 29–31].
+From a health perspective, dietary imbalances are asso -
+ciated with an increased risk of diet-related NCDs such 
+as obesity, cardiovascular disease, certain cancers and 
+diabetes [ 32, 33].
+Concerning the imbalance of nutritious plant-source 
+foods relative to animal-source foods, the World Health 
+Organization (WHO) has advised that a healthy diet 
+includes [ 34]:
+  •Fruit, vegetables, legumes (e.g. lentils and beans), 
+nuts and whole grains (e.g. unprocessed maize, 
+millet, oats, wheat and brown rice).
+  •At least 400 g (i.e. five portions) of fruit and 
+vegetables per day [ 33], excluding potatoes, sweet 
+potatoes, cassava and other starchy roots.
+Currently, the WHO (and other UN agencies) does not 
+provide explicit advice on quantities of animal-source 
+foods to include in a healthy and sustainable diet.
+Concerning the imbalance of minimally processed 
+nutritious foods relative to UPFs; UPFs are not an essen -
+tial component of a healthy and sustainable diet. These 
+foods often contribute superfluous energy, ‘risk’ nutrients 
+(added sugar, salt and industrial trans fatty acids) and 
+industrial ingredients, while displacing minimally pro -
+cessed nutritious foods, from dietary patterns [ 18]. The 
+WHO has advised that a healthy diet includes [ 34]:
+  •Less than 10% of total energy intake from free sugars.
+  •Less than 30% of total energy intake from fats. 
+Unsaturated fats are preferable to saturated fats and 
+trans-fats of all kinds.
+  •Less than 5 g of salt per day. Salt should be iodized.
+Page 4 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+Reducing excessive dietary intake of UPFs will help cor -
+rect dietary imbalances not only directly by reducing 
+dietary intake of risk nutrients and industrial ingredients, 
+but also indirectly by increasing dietary intake of mini -
+mally processed nutritious foods (assuming the mainte -
+nance of a relatively constant dietary energy intake). The 
+amount of UPF that might be accommodated within a 
+healthy diet will vary with a person’s nutrient and energy 
+requirements.
+From a sustainability perspective, consuming an exces -
+sive amount of animal-source foods relative to nutritious 
+plant-source foods can have significant adverse impacts 
+in terms of greenhouse gas emissions, land use and deg -
+radation, water use and pollution linked to nutrient-rich 
+fertilisers, and other environmental indicators [ 35, 36]. 
+Consuming an excessive amount of UPFs relative to min -
+imally processed nutritious foods is associated with bio -
+diversity loss and soil degradation, excessive use of finite 
+environmental resources such as water and food pack -
+aging waste, especially plastics [ 37, 38]. These multiple 
+adverse sustainability impacts resulting from excessive 
+consumption of UPFs are even more concerning given 
+these foods are surplus to nutritional requirements.
+Principle 3: Dietary moderation – to help achieve a healthy 
+body weight and avoid wasting finite environmental 
+resources used in providing food surplus to nutritional 
+requirements
+Dietary moderation refers to consuming enough food 
+to provide for but not exceed the body’s energy needs. 
+It is essential for optimal growth and development (until 
+physical maturity is reached), to maintain a healthy body 
+weight and composition (post-maturity), and to allow for 
+a level of physical activity consistent with long-term good 
+health (all ages) [ 32].
+From a health perspective, people who consume 
+enough food to provide for but not exceed their body’s 
+energy needs generally have a healthy body weight and 
+composition, and a lower risk of experiencing many 
+diet-related NCDs, such as cardiovascular disease and 
+type 2 diabetes, relative to people whose energy needs 
+are exceeded. People who consume an excessive number 
+and/or size of food serves from each food group beyond 
+that necessary to meet their body’s energy needs may 
+become overweight or obese. Living with overweight 
+or obesity is associated with metabolic problems and 
+an increased risk of many diet-related NCDs [ 39]. Con -
+versely, children unable to consume enough food to meet 
+their energy needs may have their growth and develop -
+ment stunted. Stunting is also associated with poor phys -
+ical, mental and functional health problems [ 40]. Adults 
+unable to consume enough food to meet their energy 
+needs over an extended period will suffer from undernu -
+trition and will be vulnerable to adverse health outcomes [41]. Both stunting and underweight are a consequence 
+of challenges with food accessibility, affordability and 
+availability [ 42].
+From a sustainability perspective, consuming exces -
+sive amounts of food not only contributes to overweight 
+and obesity, but also because it is surplus to meeting the 
+nutritional needs of the consumer it is a waste of the 
+finite environmental resources used in producing, pro -
+cessing, distributing, storing and preparing that food 
+[43]. Also, excessive food consumption usually involves 
+extra food being purchased and subsequently leading to 
+extra amounts of food packaging requiring disposal.
+Translating the dietary principles to inform food-
+level selection guidance
+In practice, determining the precise amounts, types and 
+combinations of foods which constitute a healthy and 
+sustainable diet will vary depending on individual char -
+acteristics such as age, gender, lifestage and lifestyle 
+(e.g., work practices which may be sedentary or involve 
+heavy manual labour), as well as cultural, social and envi -
+ronmental circumstances. However, the principles of a 
+healthy and sustainable diet apply equally to individuals 
+and populations around the world. Dietary guidelines 
+have remained broadly consistent over several decades 
+for most countries and they are remarkably similar across 
+the different countries [ 44], indicating that the funda -
+mentals of a healthy diet persist over time and place.
+Many countries and regions have published a food 
+guide as a graphic representation or visualization of their 
+dietary guidelines to show how the dietary principles of 
+variety, balance and moderation apply to their food sup -
+plies, eating habits and social and cultural circumstances 
+[30, 45, 46]. The visual features and certain technical 
+details of these guides vary between countries. Neverthe -
+less, the nutrition science principles that inform these 
+guides are broadly similar. In practical terms these food 
+guides help translate dietary guideline recommendations 
+into food selection advice. Figure  1 presents a synthesis 
+of the common features and technical criteria of national 
+food guides compiled by the Food and Agriculture Orga -
+nization [ 5]. This generic guide promotes the application 
+of each of the dietary principles in the following ways:
+Variety
+  –How the principle might be depicted : Nutritious 
+foods with similar characteristic nutrients and 
+nutrient profiles are grouped together into 5 core 
+food groups (Vegetables; Fruit; Cereals and grains; 
+Lean meat, fish, poultry, eggs, seeds, legumes and 
+nuts; and Milk, yoghurt, cheese and/or alternatives).
+  –How the principle might be described in 
+accompanying text : ‘Each day choose a variety of 
+Page 5 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+foods from within each of, and across all, the 5 core 
+food groups. ’
+Balance
+  –How the principle might be depicted : In relation 
+to the balance of nutritious plant-source foods to 
+animal-source foods - the relative size of each core 
+food group segment is broadly indicative of the 
+recommended number of food servings from that 
+group e.g., food groups containing predominantly 
+nutritious plant-source foods will make up a larger 
+proportion of the guide than food groups containing 
+predominantly animal-source foods. In relation 
+to the balance of UPFs to minimally processed, 
+nutritious foods - an ‘Ultra-processed foods’ food 
+group is separated from the 5 core food groups. 
+Defining this non-core food group in terms of 
+the UPF concept provides a stronger conceptual 
+(grounded in evolutionary and ecological processes) 
+and evidential basis than the mostly indeterminate 
+current descriptors such as ‘Extras’ or ‘Discretionary’ .
+  –How the principle might be described in 
+accompanying text : ‘Each day choose foods from all 5 core food groups in overall amounts equivalent to 
+the food group proportions set out on the guide’ , and 
+‘Limit intake of UPFs’ .
+Moderation
+  –How the principle might be depicted : Illustrations 
+show moderate portion sizes for foods from each 
+food group.
+  –How the principle might be described in 
+accompanying text : ‘Enjoy eating when you’re 
+hungry though stop when you feel full, avoid eating 
+an excessive number and/or size of food serves from 
+each food group and eating when you don’t have a 
+sensation of hunger’(adapted from [ 47]). ’
+The generic food guide is intended to serve as an example 
+and therefore, be flexible with a diversity of foods from 
+around the world illustrated in each of the food groups 
+so that the healthy and sustainable diet principles can 
+be adapted to different food habits, food supplies, eat -
+ing habits and social and cultural circumstances in each 
+country context.
+The food guide illustrates four other considerations for 
+healthy and sustainable diets:
+i) Safe drinking water, preferably tap or portable 
+water or water from other improved sources (e.g., 
+protected boreholes) in preference to other drinks, 
+especially sugar-sweetened beverages [ 48] and 
+bottled water, is an integral component of a healthy 
+and sustainable diet.
+ii) Food and drinks to limit are predominantly UPFs 
+and alcohol which are nutritionally poor and not an 
+essential component of a healthy diet.
+iii) Use small amounts of unsaturated vegetable oil 
+(e.g. olive, soy, sunflower, corn or rapeseed) when 
+required, though many Mediterranean countries 
+report that olive oil makes an important contribution 
+to the health benefits of Mediterranean diets and 
+recommend it be generously included in food 
+preparation and dressings for such diets [ 49–51].
+iv) Physical activity is an important complement to a 
+healthy diet.
+Concluding comments
+This manuscript has described how the fundamentals of 
+healthy and sustainable diets are grounded in evolution -
+ary and ecological processes. It reports how the science 
+identifying dietary associations with population and 
+planetary health outcomes can be synthesized into three 
+dietary principles and translated into food-level selection 
+Fig. 1  Generic healthy and sustainable food selection guide*. * ‘Designed 
+by minimum graphics’ . Copyright for this illustration belongs to the World 
+Health Organization 
+Page 6 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+guidance. These principes are commonly represented 
+in national dietary guidelines and food selection guides, 
+albeit with adaptation for cultural, social and environ -
+mental circumstances.
+The unprecedented rate and scale of change in food 
+systems and environmental settings will continue to out -
+pace the ability of human physiology and ecosystems to 
+adapt and evolve. The bidirectional relationship between 
+dietary patterns and the ecosystems may present an 
+increasing number of trade-offs to consider when prepar -
+ing dietary guidance for promoting healthy and sustain -
+able diets. For example, there are complex environmental 
+and health considerations when comparing diets contain -
+ing high amounts of animal-based foods such as meat, 
+chicken and eggs, plant-based foods such as legumes 
+and vegetables which are minimally processed, and novel 
+plant-based food products designed to mimic and replace 
+animal-based foods and which generally are ultra-pro -
+cessed. Plant- and novel plant-based diets typically have 
+smaller environmental footprints than animal-based 
+diets though the alignment of their nutrient profiles 
+with healthy diets is mixed and those containing high 
+amounts of ultra-processed products are associated with 
+longer term adverse health outcomes [ 52]. One study 
+modelling dietary recommendations for reducing the 
+amount of animal-source foods in diets, in a large part to 
+mitigate greenhouse gas emissions, showed that dietary 
+intakes of vitamin B12, calcium, iron, and zinc would be 
+below the recommended nutrient intakes for adults and 
+women of reproductive age [ 53]. These dynamic circum -
+stances highlight the importance of policymakers being 
+able to discern the level of processing of different types 
+of plant- and novel plant-based foods as well as using 
+nuanced decision-making approaches to consider the 
+range of environmental and health benefits and risks of 
+these foods. A future priority will be constant investiga -
+tion of associations between dietary patterns and health 
+and sustainability outcomes as well as ongoing review of 
+the evidence base that informs dietary guidelines.
+Into the future, guidance on healthy and sustainable 
+diets will need to continue to be based on the synthesis 
+of the best available evidence of associations between 
+dietary patterns and physiological, and increasingly plan -
+etary, health outcomes. Yet, dietary guidelines do not 
+speak for themselves. The investment in their preparation 
+will need to extend to investment in their promulgation 
+to nutrition researchers, policymakers and practitioners, 
+and their subsequent translation into food-level selection 
+guidance for citizens.
+Abbreviations
+NCDs  Noncommunicable diseases
+UPFs  Ultra-processed foods
+WHO  World Health OrganizationAcknowledgements
+M.L. received support from the WHO for the preparation of this paper, and 
+the WHO’s permission to include the food selection guide illustration drafted 
+during this developmental work. The funders had no role in study design, data 
+collection and analysis, decision to publish or preparation of the manuscript. 
+Ms Ana Paula Cardoso Richter, Deakin University, Geelong, VIC, Australia, 
+provided administrative and technical support for the preparation of the 
+manuscript.
+Author contributions
+ML conceived and wrote the paper.
+Funding
+M.L. received support from the Australian Research Council Discovery Project 
+titled ‘Reforming evidence synthesis and translation for food and nutrition 
+policy’ (DP190101323). M.L. also received support from the WHO for the 
+preparation of this paper, and the WHO’s permission to include the food 
+selection guide illustration drafted during this developmental work. The 
+funders had no role in study design, data collection and analysis, decision to 
+publish or preparation of the manuscript.
+Data availability
+No datasets were generated or analysed during the current study.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+M.L. is a Board member of Food Standards Australia New Zealand (FSANZ). The 
+findings and views presented in this manuscript are those of ML’s alone and 
+do not necessarily reflect the findings or views of the Australian Government 
+or FSANZ or the WHO.
+Received: 24 May 2024 / Accepted: 13 November 2024
+References
+1. Kumanyika S, Afshin A, Arimond M, Lawrence M, McNaughton SA, Nishida C. 
+Approaches to defining healthy diets: a background paper for the Inter -
+national Expert Consultation on sustainable healthy diets. Food Nutr Bull. 
+2020;41(2suppl):S7–30.
+2. World Health Organization. Fact sheets - Malnutrition [Internet]. 2024 [cited 2024 
+Jul 29]. https:/ /www.wh o.int/n ews- room/f act-she ets/det ail/ malnutrition
+3. Mozaffarian D, Rosenberg I, Uauy R. History of modern nutrition science—
+implications for current research, dietary guidelines, and food policy. BMJ. 
+2018;361:k2392.
+4. U.S. Department of Agriculture. A Series of Systematic Reviews on the 
+Relationship Between Dietary Patterns and Health Outcomes [Internet]. 2014 
+[cited 2024 Jul 31].  h t t  p s : /  / n e  s r   . u s  d a . g  o  v /  s i  t  e s  / d e f  a u l  t /  fi   l e s / 2 0 1 9 - 0 6 / D i e t a r  y P 
+a t t e r n s R e p o r  t - F u l l F i n a l 2 . p d f       
+5. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 31]. Food-based dietary guidelines.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u t  r  i  t i o n / e d 
+u c a t i o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / h o m e / e n /       
+6. Rockström J, Edenhofer O, Gaertner J, DeClerck F. Planet-proofing the global 
+food system. Nat Food. 2020;1(1):3–5.
+7. Intergovernmental Panel on Climate Change. IPCC Special Report on Climate 
+Change, Desertification, Land Degradation, Sustainable Land Management, 
+Food Security, and Greenhouse gas fluxes in Terrestrial Ecosystems: Summary 
+for policy makers [Internet]. 2019 [cited 2024 Jul 25].  h t t p s : / / w  w w . i p c c  . c h / s r  c 
+c l /       
+8. James-Martin G, Baird DL, Hendrie GA, Bogard J, Anastasiou K, Brooker PG, et 
+al. Environmental sustainability in national food-based dietary guidelines: a 
+global review. Lancet Planet Health. 2022;6(12):e977–86.
+Page 7 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+9. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 31]. Dietary guidelines and sustainability.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u t  r  i  t i 
+o  n / e d  u c a  t i  o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / b a c k  g r o u n d / s u s t a i n a b l e  - d i e t a r  y - g u i d 
+e l i n e s / e n /       
+10. FAO, University of Oxford. Plates, pyramids and planets Developments in 
+national healthy and sustainable dietary guidelines: a state of play assess -
+mentt [Internet]. Food and Agriculture Organization and University of Oxford; 
+2016 [cited 2024 Jul 25].  h t t  p s : /  / o p  e n  k  n o  w l e d  g e  .  f a  o . o  r g / s  e r  v  e r  / a p i / c o r  e / b i t s 
+t r e a m s / 4 9 8 6 a e c 2 - a 3 5 4 - 4 4 9 7 - 8 a f  c - 9 4 b 5 6 2 a 5 3 e 5 3 / c o n t  e n t       
+11. Cooper SL, Pelly FE, Lowe JB. Construct and criterion-related validation of 
+nutrient profiling models: a systematic review of the literature. Appetite. 
+2016;100:26–40.
+12. Lawrence MA, Dickie S, Woods JL. Do nutrient-based front-of-Pack labelling 
+schemes support or undermine Food-based Dietary Guideline recommen -
+dations? Lessons from the Australian Health Star Rating System. Nutrients. 
+2018;10(1):32.
+13. Lawrence M. Challenges associated with greenhouse gas emissions-related 
+food guidance. Nat Food. 2024;5(6):459–60.
+14. HLPE. Nutrition and food systems. A report by the High Level Panel of Experts 
+on Food Security and Nutrition of the Committee on World Food Security. 
+[Internet]. Rome; 2017 [cited 2024 Jul 25].  h t t  p s : /  / w  w  w .  f a o  . o r g  / p o  l i  c  y -  s u p p  o r 
+t  / t  o o l s - a n d - p u b l i c a t i o n s / r  e s o u r  c e s - d e t a i l s / e n / c / 1 1 5 5 7 9 6 /       
+15. Raubenheimer D, Simpson SJ. Nutritional Ecology and Human Health. Annu 
+Rev Nutr. 2016;36:603–26.
+16. Rockström J, Steffen W, Noone K, Persson Å, Chapin FSI, Lambin E et al. Plan -
+etary Boundaries: Exploring the Safe Operating Space for Humanity. Ecol Soc 
+[Internet]. 2009 Nov 18 [cited 2024 Jul 31];14(2).  h t t  p s : /  / w  w  w .  e c o l o g y a n d s o c i 
+e t y . o r g / v o l 1 4 / i s s 2 / a r  t 3 2 /       
+17. Eaton SB, Eaton SB. Paleolithic vs. modern diets–selected pathophysiological 
+implications. Eur J Nutr. 2000;39(2):67–70.
+18. Monteiro CA, Cannon G, Levy RB, Moubarac JC, Louzada ML, Rauber F, et al. 
+Ultra-processed foods: what they are and how to identify them. Public Health 
+Nutr. 2019;22(5):936–41.
+19. Afshin A, Sur PJ, Fay KA, Cornaby L, Ferrara G, Salama JS, et al. Health effects of 
+dietary risks in 195 countries, 1990–2017: a systematic analysis for the global 
+burden of Disease Study 2017. Lancet. 2019;393(10184):1958–72.
+20. Mariotti F, Havard S, Morise A, Nadaud P , Sirot V, Wetzler S, et al. Perspective: 
+modeling healthy eating patterns for food-based Dietary Guidelines-Scien -
+tific concepts, methodological processes, limitations, and lessons. Adv Nutr 
+Bethesda Md. 2021;12(3):590–9.
+21. Commonwealth of Australia. A modelling system to inform the revision of 
+the Australian guide to healthy eating. [Internet]. Canberra: Commonwealth 
+of Australia: National Health and Medical Research Council; 2021 [cited 2024 
+Jul 25].  h t t  p s : /  / w  w  w .  e a t  f o r h  e a l  t h  . g o   v . a u  / s i  t  e  s / d  e f a u  l t /  fi    l e s / fi   l e s / t h e _ g u i d e l i n 
+e s / n 5 5 c _ d i e t a r  y _ g u i d e l i n e s _ f  o o d _ m o d e l l i n g  . p d f       
+22. U.S. Department of Agriculture. Dietary Guidelines for Americans. 2020 [cited 
+2024 Jul 25]. Food Pattern Modeling | Dietary Guidelines for Americans.  h t t  p s 
+: /  / w w  w .  d i e  t a r  y  g u i  d e  l i n  e s  . g  o v /  2 0  2 0 - a d v i s o r  y - c o m m i t t  e e - r e p o r  t / f o o d - p a t t  e r 
+n - m o d e l i n g       
+23. Barabási AL, Menichetti G, Loscalzo J. The unmapped chemical complexity of 
+our diet. Nat Food. 2020;1(1):33–7.
+24. Tapsell LC, Neale EP , Satija A, Hu FB. Foods, nutrients, and dietary patterns: 
+interconnections and implications for Dietary guidelines. Adv Nutr Bethesda 
+Md. 2016;7(3):445–54.
+25. Ratnadass A, Fernandes P , Avelino J, Habib R. Plant species diversity for 
+sustainable management of crop pests and diseases in agroecosystems: a 
+review. Agron Sustain Dev. 2012;32(1):273–303.
+26. Renard D, Tilman D. Cultivate biodiversity to harvest food security and sus -
+tainability. Curr Biol. 2021;31(19):R1154–8.
+27. FAO and WHO. Sustainable healthy diets - Guiding principles [Internet]. 
+Rome. 2019 [cited 2024 Jul 25].  h t t  p s : /  / w  w  w .  w h o  . i n t / p u b l i c a t i o n s / i / i t  e m / 9 7 8 
+9 2 4 1 5 1 6 6 4 8       
+28. Willett W, Rockström J, Loken B, Springmann M, Lang T, Vermeulen S, et al. 
+Food in the Anthropocene: the EAT–Lancet Commission on healthy diets 
+from sustainable food systems. Lancet. 2019;393(10170):447–92.
+29. FAO, IFAD, UNICEF, WFP and WHO. The State of Food Security and Nutrition in 
+the World [Internet]. Rome; 2024 [cited 2024 Jul 31].  h t t  p s : /  / w  w  w .  f a o  . o r g  / p u  
+b l  i c a  t i o n  s / h  o m  e / f  a o  - fl    a g  s h  i p  - p u b l i c a t i o n s / t h e  - s t a t  e - o f - f o o d - s e c u r  i t y - a n d - n u 
+t r i t i o n - i n - t h e  - w o r l d / e n       
+30. Indian Council of Medical Research. Dietary Guidelines for Indians [Internet]. 
+2024 [cited 2024 Jul 31].  h t t  p s : /  / m a  i n  . i c  m r  . n  i c .  i n  / s i  t  e s /  d e f  a u  l t / fi   l e s / u p l o a d _ d 
+o c u m e n t s / D G I _ 0 7 t h _ M  a y _ 2 0 2 4 _ fi   n . p d f       31. Baker P , Machado P , Santos T, Sievert K, Backholer K, Hadjikakou M, et al. Ultra-
+processed foods and the nutrition transition: global, regional and national 
+trends, food systems transformations and political economy drivers. Obes 
+Rev off J Int Assoc Study Obes. 2020;21(12):e13126.
+32. National Health and Medical Research Council. Australian Dietary Guidelines 
+[Internet]. 2013 [cited 2024 Jul 31].  h t t  p s : /  / w  w  w .  e a t  f o r h  e a l  t h  . g o   v . a u  / s i  t  e  s / d e f 
+a u l t / fi   l e s / 2 0 2 2 - 0 9 / n 5 5 _ a u s t r a l i a n _ d i e t a r  y _ g u i d e l i n e s  . p d f       
+33. World Health Organization. Diet, nutrition and the prevention of chronic 
+diseases: report of a joint WHO/FAO expert consultation. [Internet]. Geneva: 
+World Health Organisation; 2003 [cited 2024 Jul 31]. 149 p. (WHO technical 
+report series). https:/ /iris.w ho.int/ hand le/10665/42665
+34. World Health Organization. Fact sheets - Healthy Diet [Internet]. 2020 [cited 
+2024 Aug 8].  h t t  p s : /  / w  w  w .  w h o   . i n t  / n e   w s  - r o o m / f a c  t - s h e e t s / d e t a i l / h e a l t h  y - d i e 
+t       
+35. Clark M, Macdiarmid J, Jones AD, Ranganathan J, Herrero M, Fanzo J. The role 
+of healthy diets in environmentally sustainable Food systems. Food Nutr Bull. 
+2020;41(2suppl):S31–58.
+36. Espinosa-Marrón A, Adams K, Sinno L, Cantu-Aldana A, Tamez M, Marrero A et 
+al. Environmental Impact of Animal-Based Food Production and the Feasibil -
+ity of a Shift Toward Sustainable Plant-Based Diets in the United States. Front 
+Sustain [Internet]. 2022 May 4 [cited 2024 Jul 25];3.  h t t  p s : /  / w  w  w .  f r o  n t i e  r s i  n .  o r 
+g  / j o u  r  n a  l s  / s u  s t a i  n a b  i l  i t  y / a r t i c l e s /       h t t p s : / / d o i . o r  g / 1 0 . 3 3 8 9 / f r s u s  . 2 0 2 2 . 8 4 1 1 0 6 / f 
+u l l       
+37. Fardet A, Rock E. Ultra-processed Foods and Food System sustainability: what 
+are the links? Sustainability. 2020;12(15):6280.
+38. Leite FHM, Khandpur N, Andrade GC, Anastasiou K, Baker P , Lawrence M, et al. 
+Ultra-processed foods should be central to global food systems dialogue and 
+action on biodiversity. BMJ Glob Health. 2022;7(3):e008269.
+39. GBD 2015 Obesity Collaborators. Health effects of overweight and obesity in 
+195 countries over 25 years. N Engl J Med. 2017;377(1):13–27.
+40. de Onis M, Branca F. Childhood stunting: a global perspective. Matern Child 
+Nutr. 2016;12(1):12–26.
+41. Prospective Studies Collaboration. Body-mass index and cause-specific 
+mortality in 900 000 adults: collaborative analyses of 57 prospective studies. 
+Lancet. 2009;373(9669):1083–96.
+42. HLPE. Food security and nutrition: building a global narrative towards 2030. 
+Rome: a report by the high level panel of experts on. Food Security and 
+Nutrition of the Committee on World Food Security; 2020.
+43. Sundin N, Rosell M, Eriksson M, Jensen C, Bianchi M. The climate impact of 
+excess food intake - an avoidable environmental burden. Resour Conserv 
+Recycl. 2021;174:105777.
+44. Herforth A, Arimond M, Álvarez-Sánchez C, Coates J, Christianson K, Muehl -
+hoff E. A Global Review of Food-based Dietary guidelines. Adv Nutr Bethesda 
+Md. 2019;10(4):590–605.
+45. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 31]. Food-based dietary guidelines - Sweden.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u 
+t  r i  t i o n / e d u c a t i o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / r  e g i o n s / s w  e d e n / e n /       
+46. Agencia de Salud Pública de Cataluña. Catalan Food Based Dietary Guideline 
+(2020)(Catalan) – Sustainability [Internet]. Barcelona; 2019 [cited 2024 Jul 31].  
+h t t  p s : /  / i c  d a  s u s  t a i n  a b i  l i  t  y .  o r g /  r e p  o r   t / c a t a l a n - f  o o d - b a s e d -  d i e t a r  y - g u i d e l i n e  - 2 0 
+2 0 c a t a l a n /       
+47. Durrer Schutz D, Busetto L, Dicker D, Farpour-Lambert N, Pryke R, Toplak H, 
+et al. European practical and patient-centred guidelines for adult obesity 
+management in primary care. Obes Facts. 2019;12(1):40–66.
+48. World Health Organization. Guidelines for drinking-water quality: fourth edi -
+tion incorporating first addendum [Internet]. 4th ed + 1st add. Geneva: World 
+Health Organization; 2017 [cited 2024 Jul 25]. 541 p.  h t t  p s : /  / i r   i s  . w h o  . i n t / h a n d l 
+e / 1 0 6 6 5 / 2 5 4 6 3 7       
+49. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 25]. Food-based dietary guidelines - Spain.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u t  r  i  
+t i o n / e d u c a t i o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / r  e g i o n s / s p a i n / e n /       
+50. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 25]. Food-based dietary guidelines - Greece.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u t  
+r i  t i o n / e d u c a t i o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / r  e g i o n s / g  r e e c e / e n /       
+51. FAO. Food and Agriculture Organization of the United Nations. 2024 [cited 
+2024 Jul 25]. Food-based dietary guidelines - Cyprus.  h t t  p : / /  w  w w  . f  a o .  o r g /  n u t  
+r i  t i o n / e d u c a t i o n / f  o o d -  d i e t a r  y - g u i d e l i n e s / r  e g i o n s / c  y p r u s / e n /       
+52. Nájera Espinosa S, Hadida G, Jelmar Sietsma A, Alae-Carew C, Turner G, Green 
+R et al. Mapping the evidence of novel plant-based foods: a systematic 
+review of nutritional, health, and environmental impacts in high-income 
+countries. Nutr Rev. 2024:nuae031. https:/ /doi.or  g/10.10 93/n utrit/nuae031 .
+Page 8 of 8
+Lawrence Nutrition Journal           (2024) 23:150 
+53. Beal T, Ortenzi F, Fanzo J. Estimated micronutrient shortfalls of the EAT-Lancet 
+planetary health diet. Lancet Planet Health. 2023;7(3):e233–7.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.Mark Lawrence  is a Board member of Food Standards Australia New Zealand 
+(FSANZ). The findings and views presented in this manuscript are those of ML’s 
+alone and do not necessarily reflect the findings or views of the Australian 
+Government, FSANZ or the WHO.
